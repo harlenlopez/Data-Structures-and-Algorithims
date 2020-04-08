@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Data_Structures_and_Algorithims</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Challenges\Class04\" />
+    <Folder Include="Challenges\Class03\" />
+    <Folder Include="Challenges\Class02\" />
+    <Folder Include="Challenges\Class01\" />
+    <Folder Include="Challenges\Class05\" />
+    <Folder Include="Challenges\Class14\" />
+    <Folder Include="Challenges\Class13\" />
+    <Folder Include="Challenges\Class12\" />
+    <Folder Include="Challenges\Class11\" />
+    <Folder Include="Challenges\Class10\" />
+    <Folder Include="Challenges\Class09\" />
+    <Folder Include="Challenges\Class08\" />
+    <Folder Include="Challenges\Class07\" />
+    <Folder Include="Challenges\Class06\" />
+    <Folder Include="Challenges\Class15\" />
+    <Folder Include="Challenges\Class16\" />
+    <Folder Include="Challenges\Class17\" />
+  </ItemGroup>
+
+</Project>
